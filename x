@@ -4,4 +4,4 @@ Manual testing is ideal for assessing the user experience (UX), and the look and
 
 Automated testing runsss on frameworks created by testers. It’s suitable for large-scale software testing, and is generally more accurate than manual testing. The major benefit is that it saves time, especially in regression testing which can become tedious for manual testers.
 
-the thing is the   manual testing. process cannot be recorded, but automation test scripts are reusable—so automated QA is a boon for repeated execution testing and successive development cycles. Automated tests can be run 24/7 without the need for manual input, although manual testing procedures can be used to cross-check results.
+the thing is the the  manual testing. process cannot be recorded, but automation test scripts are reusable—so automated QA is a boon for repeated execution testing and successive development cycles. Automated tests can be run 24/7 without the need for manual input, although manual testing procedures can be used to cross-check results.
